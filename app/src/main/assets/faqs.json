@@ -1,0 +1,36 @@
+{
+  "faqs": [
+    {
+      "question": "Travel Regulation",
+      "answer": "(C) Claims on account of Leave Travel Concessions\n(i) The stations between which the journey was performed by the\nindividuals, for whom LTC is claimed, should be furnished.\n(ii) The dates of onward and return journey should be furnished in\nrespect of each member, for whom LTC is claimed.\n(iii) If the journey is by rail, the class of accommodation should be\nindicated. If the journey is by a mode other than by rail, the full\ndetails thereof should be furnished.\n(iv) The period of leave sanctioned to the officer and a copy of the\norder sanctioning the leave should be furnished alongwith copy\nof Part II Order notifying the leave is accorded.\n(v) The home station as recorded in the officer's service documents\nshould be furnished.\n(vi) A certificate to the effect that the Officer has not availed of a\nsimilar LTC either under rule 177(A) or 177(B) TR previously\nduring the calendar year _________ for himself and for wife\nand children', should be furnished.\nA certificate to the effect that 'the Officer has availed/not availed\nLTC either under rule 177(A) or 177(B) or 177(C) TR previously\nduring the calendar year _________ for himself, in case, the\nofficer is serving in field/concessional area, should be furnished.\n(vii) If the claim is under rule 177(B) TR, a certificate to the effect\nthat 'the officer and/or his wife have/has not availed of the\nconcession previously should be furnished.\n(viii) The particulars of warrant/form 'D' used, if any, should be\nfurnished.\n(ix) A certificate to the effect that 'the station to which LTC is\nclaimed is the home station of the officer as recorded in his/her\nservice documents' should be furnished.\n(x) The details of the family member(s) and his/her/ their relation\nwith the officer should be specified."
+    },
+    {
+      "question": "Financial Power",
+      "answer": "To display the information in an app-friendly format, here’s a clear and structured design with sections, headings, and tables:\n\n---\n\n**AFSP 2021 Schedule-1**  \n**Transportation**  \n**Major Head: 2078, Minor Head: 105**  \n*(Figures in ₹ Lakhs)*\n\n---\n\n### **1.1 Transportation**\n\n| **Authority**                                   | **Without IFA Consultation** | **With IFA Consultation** |\n|------------------------------------------------|-----------------------------|----------------------------|\n| **VCAS**                                       | -                           | 5500                       |\n| **AOM/AOC-in-C**                               | 2                           | 2500                       |\n| **DG Air (Ops)**                               | -                           | 1000                       |\n| **ACAS(Lgs)/SMSO/AOES/AOLM**                   | 0.6                         | 400                        |\n| **AOC/Comdt/Stn Cdr self-accounting Units/CO** | 1.2                         | 150                        |\n| **Comdt/Stn Cdr/CO/OC self-accounting Units**  | 1.2                         | 60                         |\n\n**Notes for 1.1 Transportation**:  \n1. Powers include all transportation cases, such as:  \n   - Hiring civil transport when service transport is unavailable.  \n   - Hiring specialized vehicles, material handling equipment, water/animal transport, etc.  \n   - Airlifting/shipping stores domestically and internationally.  \n   - Dispatch of items via courier/post office.  \n   - Technical storage and incidental charges (e.g., insurance, handling, manpower).  \n2. Powers for transporting arms, ammunition, and explosives are **twice the indicated limits**.\n\n---\n\n### **1.2 Hiring of Aircraft and Associated Equipment**\n\n| **Authority**                                   | **Without IFA Consultation** | **With IFA Consultation** |\n|------------------------------------------------|-----------------------------|----------------------------|\n| **VCAS**                                       | -                           | 20000                      |\n| **AOM/AOC-in-C**                               | -                           | 10000                      |\n| **ACAS(Lgs)/SMSO/AOES/AOLM**                   | -                           | 800                        |\n| **AOC/Comdt/Stn Cdr self-accounting Units**    | 1.2                         | 100                        |\n| **Comdt/Stn Cdr/CO/OC self-accounting Units**  | 1.2                         | 50                         |\n\n**Note for 1.2 Hiring of Aircraft**:  \n- Includes hiring of Air-to-Air refuelers and associated equipment.\n\n---\n\nThis format ensures that the data is easy to navigate and read in an application interface. Each section can be separated by tabs or expandable menus for a user-friendly experience."
+    },
+    {
+      "question": "AV Policy",
+      "answer": "ans"
+    },
+    {
+      "question": "Pension Claims",
+      "answer": "ans"
+    },
+    {
+      "question": "Latest UNO Quta",
+      "answer": "ans"
+    },
+    {
+      "question": "Excalation Matrix",
+      "answer": "ans"
+    },
+    {
+      "question": "PLI Scheme",
+      "answer": "ans"
+    },
+    {
+      "question": "AGIF Loans",
+      "answer": "INTRODUCTION:\n \n\nYour d"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme using MaterialComponents. -->
+    <style name="Base.Theme.InteractiveAssistant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorPrimaryVariant">@color/my_light_primary_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <!-- Main Theme -->
+    <style name="Theme.InteractiveAssistant" parent="Base.Theme.InteractiveAssistant" />
+
+    <!-- Optional: Define NoActionBar variant of AppTheme for backward compatibility -->
+    <style name="AppTheme.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+</resources>
